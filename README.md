@@ -1,4 +1,16 @@
-rzdesk
-======
+#RZDESK : Docker base Linux Remote Desktop 
+=========
 
-linux VDI enviroment 
+* Introduction 
+   *  
+
+* Architecture 
+  
+
+* Screenshot  
+
+
+* maintainer : clouddrd@gmail.com
+
+
+
